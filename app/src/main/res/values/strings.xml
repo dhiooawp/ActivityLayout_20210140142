@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProjectPertemuan2</string>
+    <string name="name">Dhio</string>
+    <string name="no_handphone">082258902208</string>
+    <string name="nissan">NISSAN 350z</string>
+    <string name="kata">FAIRLADY Z</string>
+    <string name="select">Select your car</string>
+    <string name="loginform">Enter Your Name</string>
+    <string name="nophoneform">Enter Your Phone Number</string>
+    <string name="addsform">Enter Your Address</string>
+</resources>
